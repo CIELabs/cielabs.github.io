@@ -1,7 +1,7 @@
 # CIEL
-## Cognitive Innovation in Education Labs
+## Computation in Education Labs
 
-Webmaster: [@teonbrooks](https://github.com/teonbrooks)
+Site Maintainer: [@teonbrooks](https://github.com/teonbrooks)
 
 Welcome to CIEL's website repo!
 Check out our site at https://cielabs.org.
