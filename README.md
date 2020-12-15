@@ -1,4 +1,4 @@
-# CIEL
+# CIELabs
 ## Computation in Education Labs
 
 Site Maintainer: [@teonbrooks](https://github.com/teonbrooks)
